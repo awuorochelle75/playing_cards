@@ -22,5 +22,11 @@
 }
 
 .middle {
+    display:flex;
+    flex-direction: column;
     align-self: center;
+}
+
+.right {
+    align-self: flex-end;
 }
