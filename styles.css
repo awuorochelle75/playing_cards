@@ -9,6 +9,10 @@
 .card {
     display:flex;
     justify-content: space-between;
+    border:2px solid black;
+    border-radius:5px;
+    width:40%;
+    height:200px;
    
     
 }
