@@ -45,3 +45,7 @@ body {
 .flip {
     transform: rotate(180deg);
 }
+
+.colred {
+    color:red;
+}
