@@ -9,5 +9,10 @@
 .card {
     display:flex;
     justify-content: space-between;
+   
     
+}
+
+.left {
+    align-self:flex-start;
 }
