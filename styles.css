@@ -1,3 +1,8 @@
+body {
+    background-color: goldenrod;
+}
+
+
 #playing-cards {
     display:flex;
     justify-content: center;
